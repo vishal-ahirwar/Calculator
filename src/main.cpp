@@ -7,9 +7,10 @@ int main(int argc, char *argv[])
     if (argc < 4)
     {
         std::cout << R"**(
-            Usage :
-                ./cal num1 + num2
+            >......................<
+            Usage : clc num1 + num2
             type help for more info.
+            >......................<
             copyright(c)2022 vishal ahirwar.)**"
                   << "\n";
         return -1;
